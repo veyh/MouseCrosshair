@@ -1,0 +1,25 @@
+## Interface: 100100
+## Title: MouseCrosshair
+## SavedVariables: MouseCrosshairDB
+
+#@debug@
+## Version: dev
+## RequiredDeps: Ace3, CallbackHandler-1.0
+LibStub.lua
+#@end-debug@
+
+#@non-debug@
+# ## Version: 1.0.0
+# ## OptionalDeps: Ace3
+# LibStub.lua
+# lib\CallbackHandler-1.0\CallbackHandler-1.0\CallbackHandler-1.0.xml
+# lib\AceGUI-3.0\AceGUI-3.0.xml
+# lib\AceConfig-3.0\AceConfig-3.0.xml
+# lib\AceDB-3.0\AceDB-3.0.xml
+# lib\AceDBOptions-3.0\AceDBOptions-3.0.xml
+# lib\AceEvent-3.0\AceEvent-3.0.xml
+# lib\AceAddon-3.0\AceAddon-3.0.xml
+#@end-non-debug@
+
+util.lua
+MouseCrosshair.lua
